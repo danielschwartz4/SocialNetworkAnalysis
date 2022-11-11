@@ -1,7 +1,7 @@
 library(xUCINET)
 library(sna)
 
-load("~/documents/college/socialnetworkanalysis/hw7/Movies.Rdata")
+load("~/documents/college/socialnetworkanalysis/socialnetworkanalysisrepo/hw7/Movies.Rdata")
 
 collab <- Movies$Collab
 producer <- Movies$Attributes$Producer
